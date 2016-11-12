@@ -1,5 +1,6 @@
 # Algorithms!
 
+## Slides are [here](https://docs.google.com/presentation/d/14YCO1iScPb3ymlUukYUNyq9bB3SBo8fQHxuph6eFKeE/edit?usp=sharing).
 <hr>
 
 ## Easy
